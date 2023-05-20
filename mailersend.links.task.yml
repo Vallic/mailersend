@@ -1,0 +1,9 @@
+mailersend.settings_form:
+  route_name: mailersend.settings_form
+  title: 'MailerSend settings'
+  base_route: mailersend.settings_form
+mailersend.test_form:
+  route_name: mailersend.test_form
+  title: 'MailerSend email test'
+  weight: 100
+  base_route: mailersend.settings_form

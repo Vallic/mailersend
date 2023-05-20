@@ -1,0 +1,9 @@
+api_key: ''
+queue: false
+html: true
+html_format: full_html
+email: ''
+analytics:
+  opens: true
+  clicks: true
+  content: false

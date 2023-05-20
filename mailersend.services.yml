@@ -1,0 +1,4 @@
+services:
+  mailersend.api:
+    class: Drupal\mailersend\MailerSendApi
+    arguments: [ '@config.factory', '@logger.factory', '@event_dispatcher']

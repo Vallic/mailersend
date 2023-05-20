@@ -1,0 +1,28 @@
+{
+    "name": "drupal/mailersend",
+    "description": "Drupal module for integrating with the MailerSend API.",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/mailersend",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Valentino Međimorec (valic)",
+            "homepage": "https://www.drupal.org/u/valic",
+            "role": "Maintainer"
+        }
+    ],
+    "keywords": [
+        "MailerSend",
+        "MailerLite",
+        "email"
+    ],
+    "support": {
+        "issues": "https://drupal.org/project/issues/mailersend",
+        "source": "https://git.drupalcode.org/project/mailersend"
+    },
+    "require": {
+        "mailersend/mailersend": "^v0.10.0",
+        "drupal/mailsystem": "^4.4"
+    }
+}
+

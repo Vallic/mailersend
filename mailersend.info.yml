@@ -1,0 +1,8 @@
+name: 'MailerSend'
+description: 'Provides MailerSend integration for the Drupal'
+type: module
+core_version_requirement: ^10
+package: 'Mail'
+
+dependencies:
+  - mailsystem:mailsystem (>=4.x)

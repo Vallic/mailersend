@@ -1,0 +1,6 @@
+mailersend.settings_form:
+  route_name: mailersend.settings_form
+  parent: system.admin_config_services
+  title: 'MailerSend'
+  description: 'Configure MailerSend Integration settings.'
+

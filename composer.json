@@ -21,7 +21,7 @@
         "source": "https://git.drupalcode.org/project/mailersend"
     },
     "require": {
-        "mailersend/mailersend": "^v0.10.0",
+        "mailersend/mailersend": "^0.8",
         "drupal/mailsystem": "^4.4"
     }
 }
